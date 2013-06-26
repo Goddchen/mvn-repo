@@ -1,8 +1,5 @@
-mvn-repo
-========
-
 How to use
---------
+========
 
 Simply add the repository to your build.gradle file:
 

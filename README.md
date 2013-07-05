@@ -16,4 +16,5 @@ And you can use the artifacts like this:
         compile "com.actionbarsherlock:actionbarsherlock:4.3.1"
         compile "com.android:volley:1.0"
         compile "com.actionbarsherlock:viewpagerindicator:2.4.1"
+        compile "com.jeremyfeinstein.slidingmenu:slidingmenu:1.3-SNAPSHOT"
     }

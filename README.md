@@ -20,4 +20,10 @@ And you can use the artifacts like this:
         compile "org.holoeverywhere:holoeverywhere:1.6.8"
         compile "org.holoeverywhere:addon-preferences:1.6.8"
         compile "org.holoeverywhere:addon-slider:1.6.8"
+        compile "org.roboguice:roboguice:2.1-SNAPSHOT"
+        compile "de.keyboardsurfer.android.widget:crouton:1.8.1"
     }
+
+Notes:
+
+- Roboguice doesn't include MapActivity class, so if you're using with pre v2 Maps API it won't work!

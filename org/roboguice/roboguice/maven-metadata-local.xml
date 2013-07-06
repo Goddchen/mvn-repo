@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.roboguice</groupId>
+  <artifactId>roboguice</artifactId>
+  <versioning>
+    <versions>
+      <version>2.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20130706151857</lastUpdated>
+  </versioning>
+</metadata>

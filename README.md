@@ -22,6 +22,7 @@ And you can use the artifacts like this:
         compile "org.holoeverywhere:addon-slider:1.6.8"
         compile "org.roboguice:roboguice:2.1-SNAPSHOT"
         compile "de.keyboardsurfer.android.widget:crouton:1.8.1"
+        compile "com.sherlock:navigationdrawer:1.0-SNAPSHOT"
     }
 
 Notes:

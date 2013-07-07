@@ -1,5 +1,15 @@
-How to use
-========
+# Android Libraries
+
+- ActionBarSherlock 4.3.1
+- Volley 1.0
+- ViewPagerIndicator 2.4.1
+- SlidingMenu 1.3
+- HoloEverywhere (also with preferences and slider addon) 1.6.8
+- Roboguice 2.1
+- Crouton 1.8.1
+- Novocation 2.0-ALPHA-2
+
+# How to use
 
 Simply add the repository to your build.gradle file:
 
@@ -22,8 +32,9 @@ And you can use the artifacts like this:
         compile "org.holoeverywhere:addon-slider:1.6.8"
         compile "org.roboguice:roboguice:2.1-SNAPSHOT"
         compile "de.keyboardsurfer.android.widget:crouton:1.8.1"
+        compile "com.novoda.location:novocation:2.0-ALPHA-2"
     }
 
-Notes:
+## Notes
 
 - Roboguice doesn't include MapActivity class, so if you're using with pre v2 Maps API it won't work!

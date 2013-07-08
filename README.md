@@ -21,9 +21,10 @@ And you can use the artifacts like this:
         compile "org.holoeverywhere:addon-preferences:1.6.8"
         compile "org.holoeverywhere:addon-slider:1.6.8"
         compile "org.roboguice:roboguice:2.1-SNAPSHOT"
-        compile "de.keyboardsurfer.android.widget:crouton:1.8.1"
         compile "com.sherlock:navigationdrawer:1.0-SNAPSHOT"
         compile "com.facebook.android:facebook:3.0.2"
+		compile "com.mobeta.android.dslv:drag-sort-listview:0.6.1"
+		compile "com.doomonafireball.betterpickers:android-betterpickers:1.3.1"
     }
 
 Notes:

@@ -23,7 +23,7 @@ And you can use the artifacts like this:
         compile "org.roboguice:roboguice:2.1-SNAPSHOT"
         compile "de.keyboardsurfer.android.widget:crouton:1.8.1"
         compile "com.sherlock:navigationdrawer:1.0-SNAPSHOT"
-        compile "com.facebook.android:facebook:3.0.1"
+        compile "com.facebook.android:facebook:3.0.2"
     }
 
 Notes:

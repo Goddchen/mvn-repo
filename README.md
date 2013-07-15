@@ -26,6 +26,7 @@ And you can use the artifacts like this:
         compile "com.mobeta.android.dslv:drag-sort-listview:0.6.1"
         compile "com.doomonafireball.betterpickers:android-betterpickers:1.3.1"
         compile "net.simonvt.menudrawer:menudrawer:3.0.3"
+        compile "com.emilsjolander:stickylistheaders:1.0.0-SNAPSHOT"
     }
 
 Notes:

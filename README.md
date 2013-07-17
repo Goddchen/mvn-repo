@@ -28,6 +28,7 @@ And you can use the artifacts like this:
         compile "net.simonvt.menudrawer:menudrawer:3.0.3"
         compile "com.emilsjolander:stickylistheaders:1.0.0-SNAPSHOT"
         compile "org.jraf:android-switch-backport:1.0"
+        compile "com.github.manuelpeinado.multichoiceadapter:multichoiceadapter:2.2.5"
     }
 
 Notes:

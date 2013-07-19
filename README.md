@@ -30,6 +30,8 @@ And you can use the artifacts like this:
         compile "org.jraf:android-switch-backport:1.0"
         compile "com.github.manuelpeinado.multichoiceadapter:multichoiceadapter:2.2.5"
         compile "com.github.manuelpeinado.glassactionbar:glassactionbar:0.2.1"
+        compile "com.github.chrisbanes.actionbarpulltorefresh:library:0.5"
+        compile "com.github.chrisbanes.actionbarpulltorefresh:extra-abs:0.5"
     }
 
 Notes:

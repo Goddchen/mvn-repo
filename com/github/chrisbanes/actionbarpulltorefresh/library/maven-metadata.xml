@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.github.chrisbanes.actionbarpulltorefresh</groupId>
+  <artifactId>library</artifactId>
+  <version>0.5</version>
+  <versioning>
+    <versions>
+      <version>0.5</version>
+    </versions>
+    <lastUpdated>20130719143920</lastUpdated>
+  </versioning>
+</metadata>

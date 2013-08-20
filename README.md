@@ -33,6 +33,7 @@ And you can use the artifacts like this:
         compile "com.github.chrisbanes.actionbarpulltorefresh:library:0.5"
         compile "com.github.chrisbanes.actionbarpulltorefresh:extra-abs:0.5"
         compile "com.github.manuelpeinado.refreshactionitem-native:RefreshActionItem:1.0.3"
+        compile "com.larswerkman:holo-color-picker:1.0-SNAPSHOT"
     }
 
 Notes:

@@ -13,7 +13,6 @@ Simply add the repository to your build.gradle file:
 And you can use the artifacts like this:
 
     dependencies {
-        //
         // compile 'com.actionbarsherlock:actionbarsherlock:4.3.1'
         // use this for ActionBarSherlock (org. MavenCentral):
         compile 'com.actionbarsherlock:actionbarsherlock:4.4.0@aar'
@@ -37,7 +36,7 @@ And you can use the artifacts like this:
         compile 'com.github.chrisbanes.actionbarpulltorefresh:extra-abs:0.5'
         compile 'com.github.manuelpeinado.refreshactionitem-native:RefreshActionItem:1.0.3'
         compile 'com.larswerkman:holo-color-picker:1.0-SNAPSHOT'
-		compile 'com.fortysevendeg.swipelistview:swipelistview:1.0-SNAPSHOT'
+        compile 'com.fortysevendeg.swipelistview:swipelistview:1.0-SNAPSHOT'
     }
 
 Notes:
@@ -46,4 +45,5 @@ Notes:
 
 License:
 --------
-The Licenses are provided by the individual libary owner. This "mvn-repo" only utilizes these libaries and don´t provide any support, responsibility or licenses itself.
+The licenses are provided by the individual libary owner. This "mvn-repo" utilizes these libaries and 
+won´t provide any support, responsibility or licenses itself.

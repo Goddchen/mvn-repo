@@ -2,15 +2,15 @@
 <project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>org.holoeverywhere</groupId>
-  <artifactId>addon-preferences</artifactId>
-  <version>1.6.8</version>
+  <groupId>com.dropbox.chooser</groupId>
+  <artifactId>android</artifactId>
+  <version>1.0.0</version>
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
-      <groupId>org.holoeverywhere</groupId>
-      <artifactId>holoeverywhere</artifactId>
-      <version>1.6.8</version>
+      <groupId>com.android.support</groupId>
+      <artifactId>support-v4</artifactId>
+      <version>18.0.0</version>
       <scope>compile</scope>
     </dependency>
   </dependencies>

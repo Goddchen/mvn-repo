@@ -18,7 +18,7 @@ And you can use the artifacts like this:
         compile 'com.facebook.android:facebook:3.5.2'
         
         incl. "addons" :
-        compile 'org.holoeverywhere.holoeverywhere:2.0.0-SNAPSHOT'
+        compile 'org.holoeverywhere:holoeverywhere:2.0.0-SNAPSHOT'
 
         // compile 'com.actionbarsherlock:actionbarsherlock:4.3.1'
         // use this for ActionBarSherlock (org. MavenCentral):

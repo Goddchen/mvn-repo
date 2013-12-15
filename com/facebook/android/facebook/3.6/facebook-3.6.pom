@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.facebook.android</groupId>
   <artifactId>facebook</artifactId>
-  <version>3.5.2</version>
+  <version>3.6</version>
   <packaging>aar</packaging>
   <dependencies>
     <dependency>

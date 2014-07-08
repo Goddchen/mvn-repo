@@ -6,7 +6,7 @@ Simply add the repository to your build.gradle file:
 ```groovy
 repositories {
     maven {
-        url 'https://github.com/Goddchen/mvn-repo/raw/master/'
+        url 'https://raw.githubusercontent.com/Goddchen/mvn-repo/master/'
     }
     mavenCentral()
 }

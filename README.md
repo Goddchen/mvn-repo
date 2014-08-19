@@ -17,7 +17,7 @@ And you can use the artifacts like this:
 ```groovy
 dependencies {
     compile 'com.dropbox.chooser:android:1.0.0'
-    compile 'com.facebook.android:facebook:3.14.0'
+    compile 'com.facebook.android:facebook:3.17.1'
 
     // compile 'com.actionbarsherlock:actionbarsherlock:4.3.1'
     // use this for ActionBarSherlock (org. MavenCentral):
